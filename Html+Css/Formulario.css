@@ -1,0 +1,17 @@
+h1{
+	font-family: arial;
+	color: #A9A9A9;
+}
+
+label{
+	font-family: arial;
+}
+
+.btn{
+	background-color: #696969;
+	color: white;
+}
+
+.entrada{
+	border-radius: 10px;
+}

@@ -1,0 +1,30 @@
+table, th, td {
+	border: 3px solid black;
+}
+
+table{
+	width: 100%;
+	border-collapse: collapse;
+}
+
+th, td{
+	text-align: center;
+	padding: 5px;
+}
+
+#linha{
+	background-color: #A9A9A9;
+}
+
+h1{
+	font-family: arial;
+	text-align: center;
+	color: #A9A9A9;
+
+}
+
+.btn{
+	background-color: #696969;
+	color: white;
+}
+
